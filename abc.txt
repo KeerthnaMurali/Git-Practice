@@ -1,3 +1,7 @@
 Hi,Hello World
+<<<<<<< HEAD
 second line in rel1
 Third line
+=======
+Keerthna
+>>>>>>> db0a6b7... changes to master
